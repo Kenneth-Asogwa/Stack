@@ -1,0 +1,11 @@
+C:\Users\Kenneth\source\repos\GenericStackImplementation\GenericStackImplementation\bin\Debug\netcoreapp2.1\GenericStackImplementation.deps.json
+C:\Users\Kenneth\source\repos\GenericStackImplementation\GenericStackImplementation\bin\Debug\netcoreapp2.1\GenericStackImplementation.runtimeconfig.json
+C:\Users\Kenneth\source\repos\GenericStackImplementation\GenericStackImplementation\bin\Debug\netcoreapp2.1\GenericStackImplementation.runtimeconfig.dev.json
+C:\Users\Kenneth\source\repos\GenericStackImplementation\GenericStackImplementation\bin\Debug\netcoreapp2.1\GenericStackImplementation.dll
+C:\Users\Kenneth\source\repos\GenericStackImplementation\GenericStackImplementation\bin\Debug\netcoreapp2.1\GenericStackImplementation.pdb
+C:\Users\Kenneth\source\repos\GenericStackImplementation\GenericStackImplementation\obj\Debug\netcoreapp2.1\GenericStackImplementation.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\GenericStackImplementation\GenericStackImplementation\obj\Debug\netcoreapp2.1\GenericStackImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\GenericStackImplementation\GenericStackImplementation\obj\Debug\netcoreapp2.1\GenericStackImplementation.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\GenericStackImplementation\GenericStackImplementation\obj\Debug\netcoreapp2.1\GenericStackImplementation.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\GenericStackImplementation\GenericStackImplementation\obj\Debug\netcoreapp2.1\GenericStackImplementation.dll
+C:\Users\Kenneth\source\repos\GenericStackImplementation\GenericStackImplementation\obj\Debug\netcoreapp2.1\GenericStackImplementation.pdb
